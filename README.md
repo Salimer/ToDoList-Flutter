@@ -12,7 +12,7 @@
 <div align="center">
   
   <br/>
-<h1 align="center">BookStore</h1>
+<h1 align="center">ToDo App</h1>
 </div>
 
 
@@ -24,11 +24,10 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[BookStore\] ](#-bookstore-)
+- [📖 \[ToDo App\] ](#-todo-app-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -36,7 +35,6 @@
     - [Usage](#usage)
     - [Run tests](#run-tests)
   - [👥 Author ](#-author-)
-  - [👥 Collaborator ](#-collaborator-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -45,10 +43,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [BookStore] <a name="about-project"></a>
+# 📖 [ToDo App] <a name="about-project"></a>
 
 
-**BookStore** is a website that stores books names, authors, genre, and the user's progress on reading. Implementing this project to learn how to use React and Redux in the context of a real application.
+**BookStore** is an Android/IOS app that helps you sort your daily tasks by storing your list of todos, checking them as completed and removing done ones.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -57,10 +55,8 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://react.dev">React.js</a></li>
-    <li><a href="https://www.w3.org/TR/2011/WD-html5-20110405/">HTML5</a></li>
-    <li><a href="https://www.w3.org/Style/CSS/specs.en.html">CSS</a></li>
-    <li><a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">JavaScript</a></li>
+    <li><a href="https://flutter.dev">Flutter</a></li>
+    <li><a href="https://dart.dev">Dart</a></li>
   </ul>
 </details>
 
@@ -88,12 +84,12 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
 
 
 - [Live Demo Link](https://bookstore-m1ib.onrender.com)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 <!-- GETTING STARTED -->
@@ -105,11 +101,9 @@ To get a local copy up and running, follow these steps:
 - Clone this repo as described in the setup section. 
 - Make modifications as preferred
 
-
 ### Prerequisites
 
-In order to run this project you need: To clone or fork and run it in a browser
-
+In order to run this project you need: Flutter SDK installed on your machine
 
 ### Setup
 
@@ -119,14 +113,13 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Salimer/BookStore.git
+  git clone https://github.com/Salimer/ToDoList-Flutter.git
 ```
-
 using Ubuntu:
 
 ```sh
   cd my-desired-folder
-  git clone https://github.com/Salimer/BookStore.git
+  git clone https://github.com/Salimer/ToDoList-Flutter.git
 ```
 
 For more information on how to clone or fork a repository:
@@ -135,25 +128,20 @@ For more information on how to clone or fork a repository:
 
 ### Install
 
-- Run ` npm install `
+- Run ` flutter pub get `
 
 ### Usage
 
 To run the project, execute the following command:
 
-- Run `npm start`
+- Run `flutter run`
 
 ### Run tests
 
 To run tests, run the following command:
 
-- to test validation errors `npx hint .`
+- Run `flutter test`
 
-- to test CSS linter errors `npx stylelint "**/*.{css,scss}"`
-
-- to test JavaScript linter errors  `npx eslint .`
-
-- to run the jest tests `npx test`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,14 +153,7 @@ To run tests, run the following command:
 
 
 - GitHub: [@Salimer](https://github.com/Salimer)
-
-## 👥 Collaborator <a name="collaborator"></a>
-
-👤 **Martín Ezequiel González**
-
-- GitHub: [@Mar12358](https://github.com/Mar12358)
-- Twitter: [@MarezegonZ](https://twitter.com/MarezegonZ)
-- LinkedIn: [Martin Ezequiel Gonzalez](https://www.linkedin.com/in/martin-ezequiel-gonzalez-30a413260/)
+- LinkedIn: [Salim Bamahfoodh](https://www.linkedin.com/in/sbamahfoodh/)
 
 
 
@@ -212,7 +193,7 @@ Give a ⭐️ if you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-- Thanks to all Microverse community
+- Thanks for checking my project
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
