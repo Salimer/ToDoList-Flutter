@@ -13,7 +13,9 @@
   
   <br/>
 <h1 align="center">ToDo App</h1>
+<img width="467" alt="Screenshot 2024-02-27 at 08 58 25" src="https://github.com/Salimer/ToDoList-Flutter/assets/52242629/9a0ff183-17dc-4cf6-ba7e-0f459d276194">
 </div>
+
 
 
 
