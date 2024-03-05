@@ -48,7 +48,7 @@
 # 📖 [ToDo App] <a name="about-project"></a>
 
 
-**BookStore** is an Android/IOS app that helps you sort your daily tasks by storing your list of todos, checking them as completed and removing done ones.
+**ToDo App** is an Android/IOS app that helps you sort your daily tasks by storing your list of todos, checking them as completed and removing done ones.
 
 ## 🛠 Built With <a name="built-with"></a>
 
